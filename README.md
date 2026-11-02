@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Sendmux/website-feedback-widget/main/.github/assets/widget-demo-clean.gif"
+    src="https://raw.githubusercontent.com/qubrics/website-feedback-widget/main/.github/assets/widget-demo-clean.gif"
     alt="Animated Sendmux Feedback Widget flow showing category selection, compose, and success states"
     width="760"
   />
@@ -304,16 +304,16 @@ If this saves you time, star the repo and share how you are routing feedback int
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Sendmux/website-feedback-widget/main/.github/assets/logo-dark.svg"
+      srcset="https://raw.githubusercontent.com/qubrics/website-feedback-widget/main/.github/assets/logo-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Sendmux/website-feedback-widget/main/.github/assets/logo-light.svg"
+      srcset="https://raw.githubusercontent.com/qubrics/website-feedback-widget/main/.github/assets/logo-light.svg"
     />
     <img
       width="320"
       alt="Sendmux"
-      src="https://raw.githubusercontent.com/Sendmux/website-feedback-widget/main/.github/assets/logo-light.svg"
+      src="https://raw.githubusercontent.com/qubrics/website-feedback-widget/main/.github/assets/logo-light.svg"
     />
   </picture>
 </p>
