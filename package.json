@@ -5,13 +5,13 @@
   "license": "MIT",
   "type": "module",
   "packageManager": "bun@1.4.2",
-  "homepage": "https://github.com/Sendmux/website-feedback-widget#readme",
+  "homepage": "https://github.com/qubrics/website-feedback-widget#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sendmux/website-feedback-widget.git"
+    "url": "git+https://github.com/qubrics/website-feedback-widget.git"
   },
   "bugs": {
-    "url": "https://github.com/Sendmux/website-feedback-widget/issues"
+    "url": "https://github.com/qubrics/website-feedback-widget/issues"
   },
   "files": [
     "dist",
@@ -59,10 +59,11 @@
     "@types/node": "^25.9.9",
     "jsdom": "^29.1.1",
     "typescript": "^6.0.3",
-    "vite": "^8.3.2",
-    "vitest": "^4.1.11"
+    "vite": "^8.3.5",
+    "vitest": "^4.1.12"
   },
   "overrides": {
-    "undici": "^7.29.1"
+    "source-map-js": "^1.2.2",
+    "undici": "^7.30.1"
   }
 }
