@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented here.
 
+## 0.1.4 - 2026-11-18
+
+- Corrected the package's GitHub links to `qubrics/website-feedback-widget`.
+
 ## 0.1.3 - 2026-05-26
 
 - Widened the feedback panel so category descriptions have room to read clearly.
