@@ -64,7 +64,8 @@ jobs:
         run: bun run test:e2e
 
       - name: Audit
-        run: bun audit --audit-level=moderate
+        # Operator 3A; remove after picomatch fix: https://github.com/qubrics/website-feedback-widget/issues/6
+        run: bun audit --audit-level=moderate --ignore GHSA-fc5q-39xc-vjpf
 
       - name: Package dry run
         run: npm pack --dry-run
